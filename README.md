@@ -12,3 +12,5 @@
 >> I like [Google](https://www.google.com/) *Markdown* 语法
 
 * 可以使用 “*” 作为标记
++ 也可以使用 +
+- 或者 -
