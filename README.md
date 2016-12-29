@@ -10,4 +10,4 @@
 
  | left | center | right |
  | :--- | :----: | ----: |
- | aaaaa | basbdasbasb |  dgasgsdg |
+ | aaaa | basdbb | dgsdg |
