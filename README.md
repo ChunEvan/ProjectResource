@@ -11,6 +11,6 @@
 >I like [Google](https://www.google.com/)
 >> I like [Google](https://www.google.com/) *Markdown* 语法
 
-1.可以使用 “*” 作为标记
-2.也可以使用 +
-3.或者 -
+1. 可以使用 “*” 作为标记
+2. 也可以使用 +
+3. 或者 -
