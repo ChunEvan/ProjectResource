@@ -9,3 +9,4 @@
 #####   [Android 超高仿微信图片选择器](http://blog.csdn.net/lmj623565791/article/details/39943731)
 
 ![GitHub](https://avatars2.githubusercontent.com/u/3265208?v=3&s=100 "GitHub,Social Coding")
+![bear](https://avatars2.githubusercontent.com/u/3265208?v=3&s=100)
