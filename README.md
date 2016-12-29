@@ -22,4 +22,5 @@
   1.  2-1
   2.  2-2
  
-  [icon.png](./images/icon.png]
+ [Google][link]
+ [link]: http://www.google.com
