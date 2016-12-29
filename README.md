@@ -11,3 +11,6 @@
 ![GitHub](https://avatars2.githubusercontent.com/u/3265208?v=3&s=100 "GitHub,Social Coding")
 ![bear][]
 [bear]: https://avatars2.githubusercontent.com/u/3265208?v=3&s=100
+
+
+<img src="https://avatars2.githubusercontent.com/u/3265208?v=3&s=100" alt="Bear" title="Bear" width="50" height="50"/>
